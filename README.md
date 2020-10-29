@@ -1,5 +1,5 @@
-### Hi there 👋
-<br>
+### Hey there 👋
+
 - 🔭 I’m currently working on setting up the perfect WFH environment. Nothing seems to please me 
 - 🌱 I’m currently learning Golang and Typescript 
 - 👯 I’m looking to collaborate on anything. Just bring be something to learn.
