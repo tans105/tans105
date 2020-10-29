@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tans105)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tans105)
 
 <!--
