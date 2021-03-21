@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-- 🔭 On a hunt for the perfect WFH setup.
-- 🌱 Learning Golang and Typescript 
-- 👯 Looking to collaborate on anything. Just bring me something to learn.
-- 💬 Ask me about life, universe, anything but just dont use space
+- 💬 A Full Stack Developer, [Fetish Oriented Programmer](https://typicalprogrammer.com/fetish-oriented-programming), just another techie who loves building things.
+- 👯 Always there to help & collaborate.
 - 📫 Reach me: https://www.linkedin.com/in/tanmayawasthi105/
+
+#### Let's Create ! 
